@@ -1,0 +1,3 @@
+Hi, this program is essentially a KIOSK app where users can enter their flight and document details, and their information is then saved to a SQL database. Once the user completes registering, they are then send to a confirmation page where their data is pulled from the back and displayed on the GUI.
+
+*The program can be seen in operation in the docs folder, images are numbered in order representing the way the program runs.
