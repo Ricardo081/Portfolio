@@ -1,0 +1,11 @@
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\bin\Debug\Lone_Star_Airlines.exe.config
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\bin\Debug\Lone_Star_Airlines.exe
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\bin\Debug\Lone_Star_Airlines.pdb
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.csproj.AssemblyReference.cache
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.Properties.Resources.resources
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.Register.resources
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.csproj.GenerateResource.cache
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.csproj.CoreCompileInputs.cache
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.exe
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.pdb
+C:\Users\flapp\Desktop\cS\temp\Lone_Star_Airlines\Lone_Star_Airlines\obj\Debug\Lone_Star_Airlines.Confirmation.resources
