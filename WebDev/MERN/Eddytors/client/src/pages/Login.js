@@ -9,7 +9,7 @@ function Login() {
         password: ""
     })
     const submitUser = () =>{
-        axios.post('http://localhost:5000/login', user).then(() => {
+        axios.post('http://localhost:5000/users', user).then(() => {
             window.location.reload(false);
         })
     }
