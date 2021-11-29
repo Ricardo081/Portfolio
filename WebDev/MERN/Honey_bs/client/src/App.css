@@ -1,0 +1,273 @@
+@font-face {
+  src: url('../src/resources/page/beePollen.otf');
+  font-family: beePollen;
+}
+
+.App
+{
+  width: 90%;
+  height: 1000px;
+
+  font-family: beePollen;
+  color: gold;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  /* background-color: rgb(18, 189, 189); */
+}
+
+body
+{
+  background-image: url('../src/resources/page/road.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* title */
+#header
+{
+  width: 80%;
+  height: 15%;
+  border-radius: 14px;
+
+  margin-left: auto;
+  margin-right: auto;
+  /* box-shadow: 5px 5px 0px 2px rgba(131, 130, 130, 0.747); */
+  /* background-color: rgb(6, 5, 87); */
+}
+#header img
+{
+  width: 80%;
+  height: 90%;
+  margin: 1% 5% 10% 10%;
+}
+
+/* left container */
+#left
+{
+  width: 15%;
+  height: 40%;
+
+  margin-top: 15px;
+  border-radius: 14px;
+  float: left;
+
+  /* background-color: rgb(6, 5, 87); */
+
+}
+#lights
+{
+  width: 90%;
+  height: 20%;
+
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 14px;
+  /* box-shadow: 5px 2px rgba(192, 192, 192, 0.267); */
+
+  /* box-shadow: 5px 5px rgb(192, 192, 192); */
+  /* background-color: aquamarine; */
+}
+#lights button
+{
+  width: 90%;
+  height: 90%;
+
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 14px;
+  border: 0;
+
+  font-size: 30px;
+  font-family: BeePollen;
+
+  cursor: pointer;
+  
+  background-color: gold;
+  /* background-color: gold; */
+}
+#lights button:active 
+{
+  transform: translateY(4px);
+}
+#menuTimes
+{
+  width: 90%;
+  height: 70%;
+
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 14px;
+  /* box-shadow: 5px 2px rgba(192, 192, 192, 0.267); */
+
+  /* box-shadow: 5px 5px rgb(192, 192, 192); */
+  /* background-color: aquamarine;  */
+}
+#menuTimes button
+{
+  width: 90%;
+  height: 31%;
+
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 14px;
+  border: 0;
+
+  cursor: pointer;
+
+  font-size: 30px;
+  font-family: BeePollen;
+
+  background-color: gold;
+}
+#menuTimes button:hover
+{
+  font-size: 34px;
+}
+#menuTimes button:active 
+{
+  transform: translateY(4px);
+}
+/* Menu */
+#menu
+{
+  width: 65%;
+  height: 45%;
+
+  float: left;
+  border-radius: 14px;
+  /* border-radius: 14px; */
+}
+#menu button
+{
+  width: 30%;
+  height: 45%;
+
+  margin: 1% 1.65% 1.65% 1.65%;
+  border: 0;
+  float: left;
+  border-radius: 14px;
+  background-color: gold;
+
+  font-size: 35px;
+  font-family: beePollen;
+  color: white;
+  cursor: pointer;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#pPrice
+{
+  padding-left: 63%;
+}
+#pItem
+{
+  float: left;
+}
+#menu button:hover
+{
+  color: gold;
+  font-size: 36px;
+}
+#menu button:active 
+{
+  transform: translateY(4px);
+}
+
+/* right container */
+#right
+{
+  width: 20%;
+  height: 55%;
+
+  margin-top: 15px;
+  border-radius: 14px;
+  float: right;
+  border-radius: 14px;
+  /* box-shadow: 5px 2px rgba(192, 192, 192, 0.267); */
+
+  /* box-shadow: 5px 5px rgb(192, 192, 192); */
+  /* background-color: rgb(6, 5, 87); */
+
+}
+#rTitle
+{
+  width: 90%;
+  height: 7%;
+
+  text-align: center;
+  margin: 10px 5% 5% 5%;
+  /* background-color: aquamarine; */
+}
+#rTable
+{
+  width: 90%;
+  height: 57%;
+  font-size: 20px;
+
+  margin: 10px 5% 5% 5%;
+  /* background-color: aquamarine; */
+}
+#rTotal
+{
+  width: 90%;
+  height: 6%;
+
+  font-size: 30px;
+  margin: 0px 0% 5% 5%;
+  /* background-color: aquamarine; */
+
+}
+#rButton
+{
+  width: 90%;
+  height: 15%;
+
+  margin: 10px 5% 5% 5%;
+  /* background-color: aquamarine; */
+}
+#rButton button
+{
+  width: 90%;
+  height: 80%;
+
+  font-size: 40px;
+  font-family: BeePollen;
+  cursor: pointer;
+  margin: 5% 5% 5% 5%;
+  border-radius: 14px;
+  border: 0;
+  background-color: gold;
+}
+#rButton button:active 
+{
+  transform: translateY(4px);
+}
+#rButton button:hover
+{
+  font-size: 44px;
+}
+
+/* bottom nav */
+#bottom
+{
+  width: 65%;
+  height: 12%;
+  border-radius: 14px;
+  
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 14px;
+  /* box-shadow: 5px 2px rgba(192, 192, 192, 0.267); */
+
+  /* box-shadow: 5px 5px rgb(192, 192, 192); */
+  /* background-color: rgb(86, 112, 199); */
+
+}
