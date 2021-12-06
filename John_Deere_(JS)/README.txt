@@ -1,0 +1,1 @@
+Hello! This program was developed utilizing React Native and Expo.
