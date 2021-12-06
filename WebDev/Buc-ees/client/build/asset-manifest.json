@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf37cab8.chunk.css",
+    "main.js": "/static/js/main.d0b7f0c4.chunk.js",
+    "main.js.map": "/static/js/main.d0b7f0c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3914f258.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3914f258.js.map",
+    "static/js/2.66d92ff4.chunk.js": "/static/js/2.66d92ff4.chunk.js",
+    "static/js/2.66d92ff4.chunk.js.map": "/static/js/2.66d92ff4.chunk.js.map",
+    "static/js/3.4926b306.chunk.js": "/static/js/3.4926b306.chunk.js",
+    "static/js/3.4926b306.chunk.js.map": "/static/js/3.4926b306.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cf37cab8.chunk.css.map": "/static/css/main.cf37cab8.chunk.css.map",
+    "static/js/2.66d92ff4.chunk.js.LICENSE.txt": "/static/js/2.66d92ff4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/road.f37caa7e.jpg",
+    "static/media/bucees_logo.550549af.png": "/static/media/bucees_logo.550549af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3914f258.js",
+    "static/js/2.66d92ff4.chunk.js",
+    "static/css/main.cf37cab8.chunk.css",
+    "static/js/main.d0b7f0c4.chunk.js"
+  ]
+}
