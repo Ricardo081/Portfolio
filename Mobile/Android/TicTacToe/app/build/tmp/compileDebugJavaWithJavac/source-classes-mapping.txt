@@ -1,4 +1,0 @@
-com/fierrastudios/tictactoe/MainActivity.java
- com.fierrastudios.tictactoe.MainActivity
-com/fierrastudios/tictactoe/BuildConfig.java
- com.fierrastudios.tictactoe.BuildConfig

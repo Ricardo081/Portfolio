@@ -1,4 +1,0 @@
-com/fierrastudios/demoapp/MainActivity.java
- com.fierrastudios.demoapp.MainActivity
-com/fierrastudios/demoapp/BuildConfig.java
- com.fierrastudios.demoapp.BuildConfig
