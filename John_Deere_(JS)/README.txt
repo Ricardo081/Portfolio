@@ -1,1 +1,1 @@
-Hello! This program was developed utilizing React Native and Expo. Apk is ready for download in Android folder.
+Hello! This program was developed utilizing JavaScript: React Native and Expo. Apk is ready for download in Android folder.
