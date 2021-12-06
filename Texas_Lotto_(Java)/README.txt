@@ -1,0 +1,1 @@
+Console application that compares user's "Lucky Numbers" to recorder lottery hits dating to 2004.
