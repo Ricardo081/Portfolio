@@ -1,0 +1,1 @@
+Hello! This program was developed utilizing the MERN (JavaScript) Stack: MongoDB, Express Js, React Js, Node Js.
