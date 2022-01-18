@@ -1,1 +1,0 @@
-* This program can be seen in action here: https://buc-ees.web.app *

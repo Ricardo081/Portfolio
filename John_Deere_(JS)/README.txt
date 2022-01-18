@@ -1,1 +1,0 @@
-Hello! This program was developed utilizing JavaScript: React Native and Expo. Apk is ready for download in Android folder.
