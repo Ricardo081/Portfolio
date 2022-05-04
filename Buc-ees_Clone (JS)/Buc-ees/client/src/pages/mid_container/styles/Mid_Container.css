@@ -1,0 +1,51 @@
+.Mid_Container
+{
+    width: 65%;
+    height: 60%;
+
+    float: left;
+    border-radius: 14px;
+    
+}
+.Mid_Container button
+{
+    width: 30%;
+    height: 280px;
+  
+    margin: 1% 1.65% 1.65% 1.65%;
+    border: 0;
+    float: left;
+    border-radius: 14px;
+    background-color: gold;
+  
+    /* font-size: 35px; */
+    font-size: 48px;
+
+    font-family: beePollen;
+    text-shadow: 2px 2px 2px black;
+    color: rgb(255, 255, 255);
+    /* color: #C3002F; */
+    cursor: pointer;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pPrice
+{
+  padding-left: 63%;
+}
+#pItem
+{
+  float: left;
+}
+.Mid_Container button:hover
+{
+  color: gold;
+  /* color: #C3002F; */
+  /* font-size: 36px; */
+  font-size: 50px;
+}
+.Mid_Container button:active 
+{
+  transform: translateY(4px);
+}

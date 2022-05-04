@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "item": "Brisket Burger",
+        "price": 1.75,
+        "image": "menu_items/texas_pick/burger_brisket.jpg"
+    },
+    {
+        "id": 2,
+        "item": "Steak Burrito",
+        "price": 2.95,
+        "image": "menu_items/texas_pick/burrito.jpg"
+    },
+    {
+        "id": 3,
+        "item": "Beef Burger",
+        "price": 4.99,
+        "image": "menu_items/texas_pick/burger.jpg"
+    },
+    {
+        "id": 4,
+        "item": "Chilli Dog",
+        "price": 1.75,
+        "image": "menu_items/texas_pick/hotdog.jpg"
+    },
+    {
+        "id": 5,
+        "item": "Pizza",
+        "price": 0.99,
+        "image": "menu_items/texas_pick/pizza.jpg"
+    },
+    {
+        "id": 6,
+        "item": "Rib Sandwich",
+        "price": 5.75,
+        "image": "menu_items/texas_pick/ribs_sandwich.jpg"
+    }
+
+]
