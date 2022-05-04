@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "item": "Steak Tacos",
+        "price": 2.99,
+        "image": "menu_items/dinner/1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "item": "Steak Meal",
+        "price": 5.99,
+        "image": "menu_items/dinner/2.jpg"
+    },
+    {
+        "id": 3,
+        "item": "Meatloaf N' Sauce",
+        "price": 4.99,
+        "image": "menu_items/dinner/3.jpg"
+    },
+    {
+        "id": 4,
+        "item": "Creamy Spagetti",
+        "price": 4.99,
+        "image": "menu_items/dinner/4.png"
+    }
+
+]

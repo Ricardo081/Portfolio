@@ -1,0 +1,82 @@
+.Right_Container
+{
+    width: 20%;
+    height: 60%;
+  
+    margin-top: 15px;
+    border-radius: 14px;
+    float: right;
+    border-radius: 14px;
+    color: gold;
+}
+
+#rTitle
+{
+  width: 90%;
+  height: 7%;
+
+  text-align: center;
+  margin: 10px 5% 5% 5%;
+}
+#divTable
+{
+  height: 400px;
+}
+#rTable
+{
+  width: 90%;
+  font-size: 20px;
+
+  margin: 10px 5% 5% 5%;
+}
+
+#btnDelete
+{
+  font-family: beePollen;
+  border: none;
+  background-color: gold;
+  border-radius: 14px;
+  cursor: pointer;
+}
+#rTable button:active 
+{
+  transform: translateY(2px);
+}
+#rTotal
+{
+  width: 90%;
+  height: 6%;
+
+  font-size: 30px;
+  margin: 0px 0% 5% 5%;
+}
+#rButton
+{
+  width: 90%;
+  height: 15%;
+
+  margin: 10px 5% 5% 5%;
+}
+#rButton button
+{
+  width: 90%;
+  height: 80%;
+
+  font-size: 40px;
+  font-family: BeePollen;
+  cursor: pointer;
+  margin: 5% 5% 5% 5%;
+  border-radius: 14px;
+  border: 0;
+  background-color: gold;
+}
+#rButton button:active 
+{
+  transform: translateY(4px);
+}
+#rButton button:hover
+{
+  font-size: 44px;
+  background-color: #C3002F;
+  color: gold;
+}
