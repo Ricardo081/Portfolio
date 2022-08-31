@@ -5,7 +5,7 @@ import orderRoutes from './routes/Routes.js'
 
 const app = express()
 const port = process.env.PORT || 5000;
-const connection_url = "mongodb+srv://MongoAdmin:Password@cluster0.azvmm.mongodb.net/Buc-ees?retryWrites=true&w=majority"
+const connection_url = "mongodb+srv://MongoAdmin:Password@cluster0.azvmm.mongodb.net/RosasBakery?retryWrites=true&w=majority"
 
 app.use(express.json())
 app.use(cors())
