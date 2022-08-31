@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "item": "Biscuit Cake",
+        "price": 25.99,
+        "image": "menu_items/cakes/1.jpg"
+        
+    },
+    {
+        "id": 2,
+        "item": "Butter Cake",
+        "price": 19.99,
+        "image": "menu_items/cakes/2.jpg"
+    },
+    {
+        "id": 3,
+        "item": "Carrot Cake",
+        "price": 19.99,
+        "image": "menu_items/cakes/3.jpg"
+    },
+    {
+        "id": 4,
+        "item": "Pound Cake",
+        "price": 15.99,
+        "image": "menu_items/cakes/4.jpg"
+    },
+    {
+        "id": 5,
+        "item": "Red Velvet Cake",
+        "price": 29.99,
+        "image": "menu_items/cakes/5.jpg"
+    },
+    {
+        "id": 6,
+        "item": "Tres Leches",
+        "price": 29.99,
+        "image": "menu_items/cakes/6.jpg"
+    }
+
+]
