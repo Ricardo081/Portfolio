@@ -5,11 +5,11 @@ npx expo install @expo/webpack-config@^0.17.1
 or
 npx expo install react-native-web@~0.18.7 react-dom@18.0.0
 
-expo init monocles
+expo init client
 
 *click blank
 
-cd monocles
+cd client
 
 npm start
 
