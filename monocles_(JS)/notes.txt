@@ -13,3 +13,5 @@ cd client
 
 npm start
 
+expo build:android
+-> then apk
