@@ -24,17 +24,17 @@ function Birds(props) {
             <View style={styles.buttonContainer}>
                 <Button 
                 type="primary" 
-                content={"See More"}
+                content={"Read More"}
                 onPress={() => {
-                    console.log('See More, pressed')
+                    console.log('Read More, pressed')
                 }}
                 />
 
                 <Button 
                 type="secondary" 
-                content={"Existing Inventory"}
+                content={"Donate"}
                 onPress={() => {
-                    console.log('Existing Inventory, pressed')
+                    console.log('Donate, pressed')
                 }}
                 />
             </View>

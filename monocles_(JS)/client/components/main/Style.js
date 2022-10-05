@@ -11,13 +11,15 @@ const styles = StyleSheet.create({
         alignItems: 'center',
       },
       title:{
-        fontSize: 100,
-        fontWeight: '300',
+        fontSize: 50,
+        textAlign: "center",
+        fontWeight: '450',
+        color: "#f2e4e0"
       },
-      subtitle:{
-        color:'#5c5e62',
-        fontSize: 16,
-      },
+      // subtitle:{
+      //   color:'#f6b89e',
+      //   fontSize: 16,
+      // },
       subtitleCTA:{
         textDecorationLine: 'underline'
       },
