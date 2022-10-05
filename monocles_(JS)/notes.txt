@@ -1,1 +1,11 @@
+npm install --global expo-cli
+npm install react-dom react-native-web
+npx expo install @expo/webpack-config@^0.17.0
+
 expo init monocles
+
+*click blank
+
+cd monocles
+
+npm start
