@@ -15,3 +15,6 @@ npm start
 
 expo build:android
 -> then apk
+
+expo build:ios
+-> simulator
