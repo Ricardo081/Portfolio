@@ -8,9 +8,19 @@ export default[
         image: require('../../../assets/birds/purple_headed_woodpecker.jpg'),
     },
     {
-        name: 'Galah',
-        // tagline: 'About bird',
-        // taglineCTA: 'here',
-        image: require('../../../assets/birds/galah.jpg'),
+        name: 'Redpoll',
+        image: require('../../../assets/birds/redpoll.jpg'),
+    },
+    {
+        name: 'Lilac Breasted Roller',
+        image: require('../../../assets/birds/Lilac_breasted_roller.jpg'),
+    },
+    {
+        name: 'Gorgeted Woodstar',
+        image: require('../../../assets/birds/Gorgeted_woodstar.jpg'),
+    },
+    {
+        name: 'Vermilion Flycatcher',
+        image: require('../../../assets/birds/vermilion_flycatcher.jpg'),
     }
     ];

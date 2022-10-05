@@ -14,7 +14,8 @@ const styles = StyleSheet.create({
         fontSize: 50,
         textAlign: "center",
         fontWeight: '450',
-        color: "#f2e4e0"
+        fontFamily: "Times New Roman"
+        // color: "#f2e4e0"
       },
       // subtitle:{
       //   color:'#f6b89e',
