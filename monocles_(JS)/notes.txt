@@ -1,6 +1,7 @@
 npm install --global expo-cli
 npm install react-dom react-native-web
-npx expo install @expo/webpack-config@^0.17.0
+npx expo install @expo/webpack-config@^0.17.1
+
 
 expo init monocles
 
@@ -9,3 +10,4 @@ expo init monocles
 cd monocles
 
 npm start
+
