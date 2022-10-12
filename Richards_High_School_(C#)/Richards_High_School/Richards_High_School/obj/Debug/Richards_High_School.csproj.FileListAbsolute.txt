@@ -26,3 +26,17 @@ C:\Users\flapp\Documents\GitHub\Portfolio\C#_dotNet\Richards_High_School\Richard
 C:\Users\flapp\Documents\GitHub\Portfolio\C#_dotNet\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.csproj.CoreCompileInputs.cache
 C:\Users\flapp\Documents\GitHub\Portfolio\C#_dotNet\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.exe
 C:\Users\flapp\Documents\GitHub\Portfolio\C#_dotNet\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.pdb
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\bin\Debug\Richards_High_School.exe.config
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\bin\Debug\Richards_High_School.exe
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\bin\Debug\Richards_High_School.pdb
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.csproj.AssemblyReference.cache
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.Login.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.Properties.Resources.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.RegisterA.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.RegisterB.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.StudentView.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.TeacherView.resources
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.csproj.GenerateResource.cache
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.csproj.CoreCompileInputs.cache
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.exe
+C:\Users\flapp\Documents\GitHub\Portfolio\Richards_High_School_(C#)\Richards_High_School\Richards_High_School\obj\Debug\Richards_High_School.pdb
