@@ -1,1 +1,0 @@
-* This program can be seen in action here: https://portfolio-project-d0480.web.app *

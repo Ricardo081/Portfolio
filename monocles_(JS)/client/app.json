@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "monocles",
+    "slug": "monocles",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo/monocles.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.flappjaccs.monocles"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo/monocles.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.flappjaccs.monocles"
+    },
+    "web": {
+      "favicon": "./assets/logo/monocles.png"
+    }
+  }
+}

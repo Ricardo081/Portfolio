@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "item": "Chocolate Cookie",
+        "price": 1.99,
+        "image": "menu_items/sweets/4.jpg"
+    },
+    {
+        "id": 2,
+        "item": "Blueberry Muffin",
+        "price": 2.99,
+        "image": "menu_items/sweets/1.jpg"
+    },
+    {
+        "id": 4,
+        "item": "Butter Cake",
+        "price": 19.99,
+        "image": "menu_items/cakes/2.jpg"
+    },
+    {
+        "id": 5,
+        "item": "Carrot Cake",
+        "price": 19.99,
+        "image": "menu_items/cakes/3.jpg"
+    },
+    {
+        "id": 3,
+        "item": "Brioche",
+        "price": 1.99,
+        "image": "menu_items/traditional/3.jpg"
+    },
+    {
+        "id": 6,
+        "item": "Biscuit Cake",
+        "price": 25.99,
+        "image": "menu_items/cakes/1.jpg"
+    }
+
+]
