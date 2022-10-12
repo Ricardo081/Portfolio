@@ -1,0 +1,20 @@
+npm install --global expo-cli
+npm install react-dom react-native-web
+npx expo install @expo/webpack-config@^0.17.1
+
+or
+npx expo install react-native-web@~0.18.7 react-dom@18.0.0
+
+expo init client
+
+*click blank
+
+cd client
+
+npm start
+
+expo build:android
+-> then apk
+
+expo build:ios
+-> simulator
